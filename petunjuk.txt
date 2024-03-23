@@ -1,0 +1,3 @@
+Pada bab ini, kamu akan menemui banyak props drilling pada web app
+Untuk memperbaiki penulisan kamu wajib menghilangkan props drilling dengan menggunakan contextAPI
+contextAPI yg digunakan adalah useContext() dan useReducer()
